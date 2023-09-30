@@ -3,3 +3,4 @@ my first readme file
 <h3> 🤝🏻 Connect with Me </h3>
 <h4> Slack Name: Berabari-Age Karalolo </h4>
 <h5> When you are confused, do well to find peace of mind from help your peers could render</h5>
+<h6> I am actually excited learning hard things </h6>
